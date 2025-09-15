@@ -5,3 +5,6 @@ Only supports + - * /
 more_calculator.py:
 Enter as many numbers as you like.
 Only supports + - * /
+
+guessing_game.py:
+Guess if the number is higher or lower.
