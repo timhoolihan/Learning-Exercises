@@ -9,7 +9,7 @@ def number_input(prompt):
 num1 = number_input("Enter first number: ")
 
 while True:
-    operator = input("Enter operator: ")
+    operator = input("Enter operator: (+, -, *, /)")
     if operator in ("+", "-", "/", "*", "x"):
         break
     else:
