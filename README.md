@@ -8,3 +8,9 @@ Only supports + - * /
 
 guessing_game.py:
 Guess if the number is higher or lower.
+
+word_reverse:
+Does what it says.
+
+prime_number:
+Tells you if a number is a prime number.
