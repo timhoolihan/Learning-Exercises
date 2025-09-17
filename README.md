@@ -14,3 +14,6 @@ Does what it says.
 
 prime_number:
 Tells you if a number is a prime number.
+
+to-do:
+Self explainatory.
